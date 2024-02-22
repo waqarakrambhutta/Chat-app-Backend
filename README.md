@@ -1,3 +1,4 @@
-# Jatte
+# Chat App
 
-This project is the base starter for a tutorial from Code With Stein
+Creating chat appp using djnago channals.
+
